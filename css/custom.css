@@ -1,1 +1,10 @@
 /* your styles go here */
+
+#sidebar {
+  padding-left: 30px;
+  margin-top: 5px;
+}
+
+.sidebar-heading {
+  margin-top: 5px;
+}
